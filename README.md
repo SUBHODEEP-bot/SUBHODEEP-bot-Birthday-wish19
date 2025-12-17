@@ -48,3 +48,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+
+## admin name : admin
+## admin password: admin@123
